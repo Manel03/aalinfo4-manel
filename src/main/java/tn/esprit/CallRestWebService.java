@@ -9,17 +9,11 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
-/**
- * @author Walid-YAICH
- * 
- * URL utiles :
- * http://theoryapp.com/parse-json-in-java/
- * https://jsonformatter.curiousconcept.com/
- * 
- *
- */
+
 
 public class CallRestWebService {
+    
+    //modification111
 
 	public static final String endpoint = "http://ip-api.com/json";
 	//public static final String endpoint = "https://httpbin.org/get";
